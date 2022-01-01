@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Don't include the database file in push
+keydatabase.sqlite
+
 # User-specific files
 *.rsuser
 *.suo
